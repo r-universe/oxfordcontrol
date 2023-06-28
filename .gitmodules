@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clarabel"]
 	path = clarabel
 	url = https://github.com/oxfordcontrol/clarabel-r
-	shallow = true
-	registered = true
